@@ -1,1 +1,3 @@
 change_id,date,source,description,story_ids,points_delta,decision,rationale,affected_files
+CH-01,2026-10-28,own_decision,Винесено функцію коментарів до заявок у REL-2 для спрощення першого релізу,S-13,-3,accepted,Оптимізація обсягу за рекомендацією з перехресної рецензії,lr06_backlog/backlog.csv;lr07_wbs/wbs.csv
+CH-02,2026-10-28,course_event,"Вимога СІБ: вхід через акаунт академії, аудит ПД, сторінка про ПД",S-16;S-13,0,accepted,"Вхід та базовий аудит вже є (S-01, S-14). Додаємо S-16 (сторінка ПД) на 3 SP. Для балансу виносимо S-13 (коментарі, 3 SP) в REL-2",lr06_backlog/backlog.csv;lr08_poker/votes.csv;lr08_poker/estimates.csv;lr07_wbs/wbs.csv;lr07_wbs/schedule.csv;lr05_charter/success_criteria.csv;lr05_charter/stakeholders.csv
