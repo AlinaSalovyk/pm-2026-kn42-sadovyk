@@ -1,1 +1,8 @@
 item_id,stakeholder_id,message,channel,frequency,format,owner
+C-01,ST-01,"Прогрес по історіях першого релізу і дата, яка з нього виходить",email,biweekly,written,я
+C-02,ST-02,"Звіт про витрачені години команди та використання бюджету",report,monthly,written,я
+C-03,ST-06,"Статус розробки, блокери та прогрес спринта",meeting,weekly,verbal,Dev
+C-04,ST-10,"Ескалація ризику R-07 (загроза неприйняття сторінки ПД)",call,on_event,verbal,я
+C-05,ST-01,"Ескалація критичних ризиків або зрив віхи T-02",call,on_event,verbal,я
+C-06,ST-11,"Запит на виділення ресурсів хостингу (тригер R-05)",email,on_event,written,я
+C-07,ST-12,"Ескалація відсутності ключів API розкладу (тригер R-02)",call,on_event,verbal,я
