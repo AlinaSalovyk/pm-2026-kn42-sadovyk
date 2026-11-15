@@ -1,1 +1,7 @@
 run_id,date,tool,goal,artifact,has_input,iterations,result,note
+P-01,2026-11-13,"ChatGPT, модель GPT-4o","Скласти перелік задач і відкритих питань із нотаток зустрічі",lr17_ai_assistant/tasks.csv,yes,1,used_with_edits,"Частина пунктів використана, але вигадані імена і дати були прибрані"
+P-02,2026-11-13,"ChatGPT, модель GPT-4o","Скласти перелік задач без добудовування вигаданих фактів",lr17_ai_assistant/tasks.csv,yes,2,used_with_edits,"Після заборони добудови зникли вигадані відповідальні"
+P-03,2026-11-13,"ChatGPT, модель GPT-4o","Згенерувати 10 причин провалу проєкту за рік (premortem)",lr17_ai_assistant/README.md,yes,1,used_with_edits,"Взято одну релевантну причину про конфлікт мікрофонів"
+P-04,2026-10-21,"ChatGPT, модель GPT-4o","Сформулювати ризик відмови API розкладу для реєстру",lr11_risks_quality/risks.csv,yes,1,used_with_edits,"Використано для формулювання ризику R-02 у ЛР11"
+P-05,2026-10-14,"ChatGPT, модель GPT-4o","Скласти драфт Acceptance Criteria для історії S-04",lr06_backlog/backlog.csv,yes,1,used_with_edits,"Додано перевірку коректності часового проміжку"
+P-06,2026-10-29,"ChatGPT, модель GPT-4o","Сформулювати канали комунікації для звіту по ризиках C-05",lr12_communication/communication.csv,yes,1,used_with_edits,"Уточнено тригер запуску каналу за подією critical_risk"
