@@ -1,1 +1,8 @@
 line_id,category,role_or_item,hours,rate,amount,note
+B-01,labor,PM,240,540,129600,Стеля годин варіанта на частку зайнятості PM
+B-02,labor,Dev,960,480,460800,Два розробники (робота S-16 лягла в ці години)
+B-03,labor,BA,240,450,108000,Бізнес-аналітик
+B-04,labor,QA,240,410,98400,QA-інженер
+B-05,tools,Ліцензії трекера і AWS,,,25000,Хмара та інструменти на 12 тижнів
+B-06,contingency,Contingency,,,41090,5 відсотків прямих витрат
+B-07,management_reserve,Management Reserve,,,43144,5 відсотків від baseline
