@@ -1,1 +1,5 @@
 role,fte,hours,rate,source,note
+PM,0.5,240,540,https://jobs.dou.ua/salaries/,Єдина роль з відповідальністю за бюджет та строк
+Dev,2.0,960,480,https://jobs.dou.ua/salaries/,Два розробники за однією ставкою
+BA,0.5,240,450,https://jobs.dou.ua/salaries/,Ставка аналітика згідно з медіаною огляду
+QA,0.5,240,410,https://jobs.dou.ua/salaries/,Ставка нижча за Dev на ту саму частку що в огляді
